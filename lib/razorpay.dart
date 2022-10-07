@@ -39,6 +39,7 @@ class _RazorPayDataState extends State<RazorPayData> {
       currency: 'INR',
       notify: notify,
       customer: customerData,
+
       description: 'descriptionValue',
       callback_method: 'get',
     );
